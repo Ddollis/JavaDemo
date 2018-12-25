@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaDemo.iml" filepath="$PROJECT_DIR$/JavaDemo.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/javaee/SpringMVCAndMybatis2/SpringMVCAndMybatis.iml" filepath="$USER_HOME$/Desktop/javaee/SpringMVCAndMybatis2/SpringMVCAndMybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/TCP_IP/TCP_IP.iml" filepath="$PROJECT_DIR$/TCP_IP/TCP_IP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEB11_XML/WEB11_XML.iml" filepath="$PROJECT_DIR$/WEB11_XML/WEB11_XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/day22/day22.iml" filepath="$PROJECT_DIR$/day22/day22.iml" />
       <module fileurl="file://$PROJECT_DIR$/day23/day23.iml" filepath="$PROJECT_DIR$/day23/day23.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
-      <module fileurl="file://D:/wenda/wenda.iml" filepath="D:/wenda/wenda.iml" />
     </modules>
   </component>
 </project>
